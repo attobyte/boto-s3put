@@ -1,0 +1,54 @@
+2006-04-02 Edwin Olson <eolson@mit.edu>
+
+	* Fixed bug that caused drag 'n drop'ed files to be ignored
+
+	* Made exclamation artwork less ugly
+
+	* Added "always on top"
+	
+2004-05-20 Edwin Olson <eolson@mit.edu>
+
+	* Converted to GPL
+
+	* Initial sourceforge.net version
+
+	* Release 2.06.
+	
+2004-04-09 Edwin Olson <eolson@mit.edu>
+
+	* Files were not closed after checking their hashes. Oops. The bug
+	was introduced in 2.04.
+
+	* Release 2.05
+	
+2004-04-09 Edwin Olson <eolson@mit.edu>
+
+	* Fixed a serious problem that could cause incorrect MD5 hashes to
+	be computed (but false "passes" would not occur.)
+
+	* Added a number of user interface improvements. 
+
+	* Release 2.04
+	
+2004-02-22 Edwin Olson <eolson@mit.edu>
+
+	* Fixes a problem handling files >2GB and a problem that could
+	cause WinMD5 to not quit properly.
+
+	* Release 2.02
+	
+2003-08-19 Edwin Olson <eolson@mit.edu>
+
+	* Fixes a small problem that could (in theory-- never actually
+	witnessed) cause files to not be hashed immediately.
+
+	* Release 2.01
+	
+2003-07-30 Edwin Olson <eolson@mit.edu>
+
+	* First released version using new .NET implementation and having
+	lots of new features, including automatic MD5SUM comparison,
+	generation of MD5SUM files, and an improved interface.
+
+	* Release 2.0
+	
