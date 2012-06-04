@@ -1,0 +1,29 @@
+License Information for GSpot Codec Information Appliance(tm)
+Copyright 2006  Steven Greenberg  All Rights Reserved.
+"GSpot" and "GSpot Codec Information Appliance" are trademarks of Steven Greenberg.
+
+1. LICENSE GRANT.   Steven Greenberg ("the AUTHOR") grants you a non-exclusive and non-transferable license to reproduce and use the SOFTWARE for personal or internal business purposes.  “The SOFTWARE” refers to the GSpot executable file itself as well as all related data, text and other files contained in the GSpot distribution package. This license does not entitle you to receive from AUTHOR hard-copy documentation, technical support, telephone assistance, or enhancements or updates to the SOFTWARE.
+
+2. OWNERSHIP.  The SOFTWARE is owned and copyrighted by the AUTHOR.  Your license confers no title or ownership in the SOFTWARE and should not be construed as a sale of any right in the SOFTWARE.
+
+3. COPYRIGHT.  The SOFTWARE is protected by United States copyright law and international treaty provisions. You acknowledge that no title to the intellectual property in the SOFTWARE is transferred to you. You agree that any copies of the SOFTWARE you create will contain the same proprietary notices which appear on and in the SOFTWARE.
+
+4. DISTRIBUTION.
+
+a) You may distribute an unlimited number of exact, unmodified, individual copies of the SOFTWARE to anyone you wish, in accordance with this agreement, by making such copies available for download (e.g., via the Internet, on-line services, bulletin boards, etc.).
+
+b) Distribution (other than single copy) via removable storage or other physical media (e.g., floppy disks, CD-ROMs, etc.) requires the express permission of the AUTHOR. This includes, but is not limited to, shareware and freeware collection disks, disks distributed with published magazines, etc.
+
+c) Regardless of the method of distribution, you are specifically prohibited from charging or requesting donations for any such copies, and from distributing the SOFTWARE bundled with other hardware or software products, commercial or otherwise, without first obtaining written permission from the AUTHOR.
+
+5. REVERSE ENGINEERING.  You may not decompile, reverse engineer, or disassemble the SOFTWARE. You may not modify, rent or resell for profit the SOFTWARE. You may not remove any copyright notices from the SOFTWARE.  You may not create derivative works based upon the SOFTWARE, including but not limited to modification of the SOFTWARE's text to other languages, without the permission of the AUTHOR.
+
+6. SEVERABILITY.  In the event of invalidity of any provision of this license, the parties agree that such invalidity shall not affect the validity of the remaining portions of this license.
+
+7. EXCLUSION OF OTHER WARRANTIES.  EXCEPT AS PROVIDED ABOVE, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. 
+
+8. LIMITATION OF LIABILITY.  IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, OR LOST INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. ENTIRE AGREEMENT.  This is the entire agreement between you and the AUTHOR which supersedes any prior agreement or understanding, whether written or oral, relating to the subject matter of this license.
+
+10. RESERVED RIGHTS.  All rights not expressly granted here are reserved to the AUTHOR.
